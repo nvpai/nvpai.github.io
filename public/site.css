@@ -1,6 +1,7 @@
 /*This file should have 10 CSS rulesets */
 h1{
-    color: #5158BB;
+    /* color: #5158BB; */
+    color: white;
     text-align: center;
     font-size: 25pt;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -8,16 +9,19 @@ h1{
     
 }
 head, body{
-    background-color: #F6F4D2;
+    /* background-color: #F6F4D2; */
+    background-color: black;
 }
 p{ 
     font-size: 15pt;
     font-style: italic;
-    color:#9d4edd;
+    /* color:#9d4edd; */
+    color:white;
 }
 
 h2{
-    color: #5158BB;
+    /* color: #5158BB; */
+    color:white;
     font-family: 'Courier New', Courier, monospace, serif;
     font-size: 20pt;
     text-transform: capitalize;
@@ -26,7 +30,7 @@ h2{
 
 }
 ul{
-    color: #9d4edd;
+    color:white;
     font-size: 15pt;
     font-style: italic;
 }
