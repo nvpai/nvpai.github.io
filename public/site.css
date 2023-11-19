@@ -1,0 +1,32 @@
+/*This file should have 10 CSS rulesets */
+h1{
+    color: #5158BB;
+    text-align: center;
+    font-size: 25pt;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+head, body{
+    background-color: #F6F4D2;
+}
+p{ 
+    font-size: 15pt;
+    font-style: italic;
+    color:#9d4edd;
+}
+
+h2{
+    color: #5158BB;
+    font-family: 'Courier New', Courier, monospace, serif;
+    font-size: 20pt;
+    text-transform: capitalize;
+    font-style: bold;
+    
+
+}
+ul{
+    color: #9d4edd;
+    font-size: 15pt;
+    font-style: italic;
+}
